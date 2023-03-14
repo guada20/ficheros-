@@ -1,0 +1,5 @@
+ juan, 18 años, Masculino, 20/10/2004, 140 cm
+ camila, 20 años, femenino, 11/03/2003, 150 cm 
+ nancy, 21 años, femenino, 11/04/2002, 160cm 
+ eliana, 47 años, femenino, 10/12/1974, 161cm 
+ ana, 14 años, femenino, 22/01/2009, 170cm

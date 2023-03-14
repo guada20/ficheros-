@@ -1,0 +1,10 @@
+Antioquia : Medellin
+Cundinamarca : Bogota
+Guania : Inirida 
+Choco : Quibdo
+Huila : Neiva
+Guajira : Riohacha
+Cordoba : Monteria
+Narino : pasto
+Santander : Bucaramanga
+Sucre : Sincelejo
